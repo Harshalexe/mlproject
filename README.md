@@ -51,6 +51,10 @@ Email: harshalrajendraahire@gmail.com
 
 
 
+https://github.com/Harshalexe/mlproject-SPI-MLops/assets/136616303/4890a4b3-917f-40ed-8bae-182ec23fa348
+
+
+
 ## In coming project we will see AWS-CICD-Deployment-with-Github-Actions
 
 # Thankyou
