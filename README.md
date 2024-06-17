@@ -1,6 +1,8 @@
 # Student Performace Indicator (SPI)
 ## Industry Level Implementation
 
+#### The Student Performance Indicator (SPI) project is an industry-level implementation designed to predict students' math scores based on various features. The project follows a well-structured setup, with separate modules for different components such as data ingestion, data transformation, and model training. Custom loggers and exception handling are implemented to ensure robust and maintainable code. The data is processed locally, and a dedicated file for the prediction pipeline is included. A utility file is created for common code to enhance reusability. Extensive data exploration is conducted to understand and prepare the dataset. The project employs a virtual environment (venv) and includes a setup.py for easy package management. Flask is used to develop a web application that serves the prediction results through a local port. Overall, the SPI project efficiently integrates various machine learning processes to predict student performance, with a specific focus on math scores.
+
 # How to run?
 
 ### STEP 01- Clone the repository
